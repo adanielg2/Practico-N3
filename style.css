@@ -1,0 +1,22 @@
+#title{
+    color: black;
+    text-align: center;
+   /* background-color: darkcyan;*/
+}
+h4 {text-align: center;}
+body{
+    background-image: url('image/viaje.webp');
+    background-size: 100%;
+ 
+}
+#pos {
+    padding:100px 220px;
+        
+}
+#pos1 {
+    padding: 10px 300px;
+}
+#pos2{padding: 10px 350px;}
+#boton {
+    padding: 100px 350px;
+}
